@@ -1,11 +1,6 @@
-# Dillinger
+# BB8
 
-[![N|Solid](https://github.com/mrcoulter45/BB8/blob/master/images/BB8.jpg)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://github.com/mrcoulter45/BB8/blob/master/images/BB8.jpg)](https://www.starwars.com/databank/bb-8)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+This is a repository for all of the source code, circuit diagrams, and various files associated with my 1:1 BB8 robot.
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
-
-  - Type some Markdown on the left
-  - See HTML in the right
-  - Magic
