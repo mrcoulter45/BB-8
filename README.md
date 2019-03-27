@@ -1,6 +1,6 @@
 # Dillinger
 
-[![N|Solid](https://github.com/mrcoulter45/BB8/blob/master/images/BB8.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://github.com/mrcoulter45/BB8/blob/master/images/BB8.jpg)](https://nodesource.com/products/nsolid)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
